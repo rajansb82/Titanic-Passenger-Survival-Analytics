@@ -1,0 +1,20 @@
+# R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Generated data
+data/raw/*.csv
+data/processed/*.csv
+
+# Generated model objects
+outputs/*.rds
+
+# Generated outputs
+outputs/plots/*.png
+outputs/tables/*.csv
+
+# OS
+.DS_Store
+Thumbs.db
